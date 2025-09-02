@@ -162,3 +162,21 @@ def intr(name, age):
     print("hello", name, "you are", age)
 
 intr("sahib", 18)
+
+print("input output")
+
+inputname = input("what is your name? ") #prints the text before allowing the user input, you could also leave it blank
+print("Hello,", inputname)
+
+#went on a little side mission, when you overwrite an old variable, the old variable still exists but you cannot access it unless you apply it to another vatiable
+#eg.
+#old_value = original_variable
+#original_variable = new_value 
+# Now 'old_value' still holds the original value of 'original_variable'
+#when overwritten, the old variable still exists in storage, even if you can't access it, you need to delete it
+
+#  my_variable = 10
+# del my_variable
+
+#del deletes the old variable from memory, saving space, my_variable is now unnasigned, it cannot call on anything else unless you give it purpose
+
