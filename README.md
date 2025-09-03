@@ -1,0 +1,1 @@
+Preparing myself for future projects, I am briefly going over what is possible with python, this does not display everything possible with Python, rather a reintroduction, preparing me for future endeavours.
